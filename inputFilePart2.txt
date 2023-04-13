@@ -1,0 +1,7 @@
+"Cancerous cell smears 2023\Cancerous cell smears\cyl02.BMP" R
+"Cancerous cell smears 2023\Cancerous cell smears\inter24.BMP" G
+"Cancerous cell smears 2023\Cancerous cell smears\let73.BMP" B
+"Cancerous cell smears 2023\Cancerous cell smears\mod19.BMP" R
+"Cancerous cell smears 2023\Cancerous cell smears\para05.BMP" G
+"Cancerous cell smears 2023\Cancerous cell smears\super11.BMP" B
+"Cancerous cell smears 2023\Cancerous cell smears\svar73.BMP" R
